@@ -4,15 +4,9 @@ package VisitorPattern;
      2018/10/29 23:18
 */
 
-import java.util.ArrayList;
-import java.io.*;
-import java.util.*;
-import java.text.*;
-import java.math.*;
-import java.util.regex.*;
 
-import java.util.ArrayList;
-import java.util.Scanner;
+import java.util.*;
+
 
 enum Color {
     RED, GREEN
