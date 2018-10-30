@@ -112,7 +112,7 @@ class ProductOfRedNodesVisitor extends TreeVis {
     public void visitNode(TreeNode node) {
         //implement this
         if (node.getColor().equals(Color.RED)) {
-            result += (result * node.getValue()) % M;
+            result = (result * node.getValue()) % M;
         }
 
     }
