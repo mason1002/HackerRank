@@ -91,5 +91,8 @@ ENV/
 # Apple DS_Store
 .DS_Store
 
-.idea
+
+.idea/workspace.xml
+.idea/usage.statistics.xml
+.idea/tasks.xml
 out/
